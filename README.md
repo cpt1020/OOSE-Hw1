@@ -1,6 +1,6 @@
 # Object-Oriented Software Engineering - Hw1
 
-Hw1 of Object-Oriented Software Engineering course [CSIE7004] @NCKU Spring 2023
+Hw1 of Object-Oriented Software Engineering course [CSIE7004] @ NCKU Spring 2023
 
 ## Scenario
 
